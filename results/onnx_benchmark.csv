@@ -1,0 +1,4 @@
+model,acc,onnx_mb
+fp32,94.83,0.07
+unstructured,94.53,0.07
+structured,94.36,0.07
